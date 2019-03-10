@@ -13,7 +13,7 @@ MQTT_PORT = 8883
 MQTT_KEEPALIVE_INTERVAL = 30
 MQTT_TOPIC = "VIM_2.4_4/publish/data"
 
-MQTT_HOST = "a1i7j5osyfg6jn.iot.ap-southeast-1.amazonaws.com"
+MQTT_HOST = "*********.iot.ap-southeast-1.amazonaws.com"
 CA_ROOT_CERT_FILE = "root.crt"
 THING_CERT_FILE = "certificate.pem.crt"
 THING_PRIVATE_KEY = "private.pem.key"
